@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/snehajh99710092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="snehajh99710092" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sneha-jha-b7b8991a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="sneha-jha-b7b8991a9" height="30" width="40" /></a>
-<a href="https://instagram.com/sneha.jha08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sneha.jha08" height="30" width="40" /></a>
+<a href="https://twitter.com/SnehaJh99710092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="SnehaJh99710092" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sneha-jha-b7b8991a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="sneha-jha-b7b8991a9" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sneha.jha08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="@sneha.jha08" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/snehajha08112000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="snehajha08112000" height="30" width="40" /></a>
 <a href="https://discord.gg/Sneha #5728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="Sneha #5728" height="30" width="40" /></a>
 </p>
